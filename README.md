@@ -1,6 +1,6 @@
 # 🌳 Expression Tree Visualizer
 
-A **JavaFX-based Expression Tree Visualizer** project developed as part of the **Data Structures and Algorithms (DSA)** .  
+A **Java and Swing Expression Tree Visualizer** project developed as part of the **Data Structures and Algorithms (DSA)** .  
 This standalone desktop application demonstrates the construction and visualization of **expression trees** — an essential concept in compiler design and data structures.
 
 ---
@@ -21,7 +21,7 @@ The **Expression Tree Visualizer** allows users to:
 | Component | Technology |
 |------------|-------------|
 | Language | Java (JDK 17 or above recommended) |
-| GUI Framework | JavaFX |
+| GUI Framework | Java Swing |
 | Database (optional) | MySQL (via JDBC) |
 | IDE Used | IntelliJ IDEA / VS Code / NetBeans / Eclipse |
 | Version Control | Git & GitHub |
@@ -71,16 +71,7 @@ Copy code
        
     2. Open the project in your preferred IDE (like VS Code or IntelliJ IDEA).
     
-    
-    3. Set up JavaFX:
-    
-    Add JavaFX SDK path to your run configuration.
-    Example VM arguments:
-    cpp
-    Copy code
-    --module-path "C:\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml
-    
-    4. Run the Main.java file.
+    3. Run the Main.java file.
 
 🧠 DSA Concepts Covered :
 
@@ -95,6 +86,6 @@ Graphical representation of data structures
 This project strengthens the understanding of:
 Data structure implementation in real applications.
 Visualizing how compilers interpret mathematical expressions.
-Integrating frontend (JavaFX) with backend logic (Java + DSA).
+Integrating frontend (JavaSwing) with backend logic (Java + DSA).
 
 
