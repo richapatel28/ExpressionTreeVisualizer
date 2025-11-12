@@ -1,6 +1,6 @@
 # 🌳 Expression Tree Visualizer
 
-A **JavaFX-based Expression Tree Visualizer** project developed as part of the **Data Structures and Algorithms (DSA)** course (MCA Sem 1).  
+A **JavaFX-based Expression Tree Visualizer** project developed as part of the **Data Structures and Algorithms (DSA)** .  
 This standalone desktop application demonstrates the construction and visualization of **expression trees** — an essential concept in compiler design and data structures.
 
 ---
